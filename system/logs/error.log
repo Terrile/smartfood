@@ -1,0 +1,49 @@
+2015-01-16 6:00:08 - PHP Notice:  Undefined index: lastname in /home/www/default/free-cn2011/catalog/model/account/customer.php on line 21
+2015-01-16 6:00:08 - PHP Notice:  Undefined index: address_2 in /home/www/default/free-cn2011/catalog/model/account/customer.php on line 21
+2015-01-16 6:00:10 - PHP Notice:  Undefined index: lastname in /home/www/default/free-cn2011/catalog/controller/account/register.php on line 35
+2015-01-16 6:00:53 - PHP Notice:  Undefined index: address_2 in /home/www/default/free-cn2011/catalog/model/account/address.php on line 22
+2015-01-16 6:04:07 - PHP Notice:  Undefined index: lastname in /home/www/default/free-cn2011/catalog/model/account/customer.php on line 21
+2015-01-16 6:04:07 - PHP Notice:  Undefined index: address_2 in /home/www/default/free-cn2011/catalog/model/account/customer.php on line 21
+2015-01-16 6:06:52 - PHP Notice:  Error: Could not load model /home/www/default/free-cn2011/catalog/model/payment/amazon_checkout.php! in /home/www/default/free-cn2011/system/engine/loader.php on line 24
+2015-01-16 6:07:45 - PHP Notice:  Undefined index: address_2 in /home/www/default/free-cn2011/catalog/controller/checkout/confirm.php on line 131
+2015-01-16 6:07:45 - PHP Notice:  Undefined index: address_2 in /home/www/default/free-cn2011/catalog/controller/checkout/confirm.php on line 158
+2015-01-16 6:10:30 - PHP Notice:  Undefined index: address_2 in /home/www/default/free-cn2011/catalog/controller/checkout/confirm.php on line 131
+2015-01-16 6:10:30 - PHP Notice:  Undefined index: shipping_address_2 in /home/www/default/free-cn2011/catalog/model/checkout/order.php on line 6
+2015-01-16 6:10:42 - PHP Notice:  Undefined index: address_2 in /home/www/default/free-cn2011/catalog/controller/checkout/confirm.php on line 131
+2015-01-16 6:10:42 - PHP Notice:  Undefined index: shipping_address_2 in /home/www/default/free-cn2011/catalog/model/checkout/order.php on line 6
+2015-01-16 6:15:48 - PHP Notice:  Undefined index: payment_address_2 in /home/www/default/free-cn2011/catalog/model/checkout/order.php on line 6
+2015-01-16 6:15:48 - PHP Notice:  Undefined index: shipping_address_2 in /home/www/default/free-cn2011/catalog/model/checkout/order.php on line 6
+2015-01-16 6:19:00 - PHP Notice:  Error: Could not load model /home/www/default/free-cn2011/catalog/model/payment/amazon_checkout.php! in /home/www/default/free-cn2011/system/engine/loader.php on line 24
+2015-01-16 6:21:51 - PHP Notice:  Error: Could not load model /home/www/default/free-cn2011/catalog/model/payment/amazon_checkout.php! in /home/www/default/free-cn2011/system/engine/loader.php on line 24
+2015-02-27 15:03:26 - PHP Notice:  Undefined index: lastname in C:\xampp\htdocs\catalog\controller\account\register.php on line 35
+2015-02-27 15:04:55 - PHP Notice:  Error: Could not load model C:\xampp\htdocs/catalog/model/payment/amazon_checkout.php! in C:\xampp\htdocs\system\engine\loader.php(11) : regexp code(1) : eval()'d code on line 2
+2015-08-02 12:16:00 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\catalog\controller\shop\list.php on line 11
+2015-08-07 16:46:14 - PHP Notice:  Error: Could not load model C:\xampp\htdocs/catalog/model/common/header.php! in C:\xampp\htdocs\system\engine\loader.php(11) : regexp code(1) : eval()'d code on line 2
+2015-08-08 9:04:43 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\catalog\controller\account\register.php on line 355
+2015-08-08 9:04:43 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\catalog\controller\account\register.php on line 355
+2015-08-08 9:04:43 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\catalog\controller\account\register.php on line 359
+2015-08-08 9:04:48 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\catalog\controller\account\register.php on line 355
+2015-08-08 9:04:48 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\catalog\controller\account\register.php on line 355
+2015-08-08 9:04:48 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\catalog\controller\account\register.php on line 359
+2015-08-08 10:19:35 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\catalog\controller\account\register.php on line 359
+2015-08-08 10:19:35 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\catalog\model\account\customer.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 12
+2015-08-08 10:19:35 - PHP Notice:  Undefined index: fax in C:\xampp\htdocs\catalog\model\account\customer.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 12
+2015-08-08 10:19:35 - PHP Notice:  Undefined index: company in C:\xampp\htdocs\catalog\model\account\customer.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 14
+2015-08-08 10:19:35 - PHP Notice:  Undefined index: postcode in C:\xampp\htdocs\catalog\model\account\customer.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 14
+2015-08-08 10:19:35 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\catalog\model\account\customer.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 30
+2015-08-08 10:19:35 - PHP Notice:  Error: E-Mail to required! in C:\xampp\htdocs\system\library\mail.php on line 63
+2015-08-08 10:22:47 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\catalog\controller\account\register.php on line 359
+2015-08-08 10:26:28 - PHP Notice:  Undefined index: lastname in C:\xampp\htdocs\catalog\model\account\customer.php on line 16
+2015-08-08 10:26:28 - PHP Notice:  Undefined index: fax in C:\xampp\htdocs\catalog\model\account\customer.php on line 16
+2015-08-08 10:30:43 - PHP Notice:  Undefined index: lastname in C:\xampp\htdocs\catalog\model\account\customer.php on line 16
+2015-08-08 10:30:43 - PHP Notice:  Undefined index: fax in C:\xampp\htdocs\catalog\model\account\customer.php on line 16
+2015-08-08 10:57:18 - PHP Notice:  Undefined index: lastname in C:\xampp\htdocs\catalog\model\account\customer.php on line 17
+2015-08-08 11:22:01 - PHP Notice:  Undefined index: lastname in C:\xampp\htdocs\catalog\model\account\customer.php on line 21
+2015-08-08 11:22:01 - PHP Notice:  Undefined index: company in C:\xampp\htdocs\catalog\model\account\customer.php on line 21
+2015-08-08 11:22:01 - PHP Notice:  Undefined index: postcode in C:\xampp\htdocs\catalog\model\account\customer.php on line 21
+2015-08-08 11:22:02 - PHP Notice:  Undefined index: lastname in C:\xampp\htdocs\catalog\controller\account\register.php on line 35
+2015-08-08 11:32:43 - PHP Notice:  unserialize(): Error at offset 0 of 19 bytes in C:\xampp\htdocs\catalog\model\account\address.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 114
+2015-08-08 15:32:43 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\catalog\view\theme\default\template\shop\list.tpl on line 19
+2015-08-08 15:45:45 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\catalog\controller\shop\list.php on line 23
+2015-08-08 15:46:50 - PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\catalog\controller\shop\list.php on line 23
+2015-08-08 15:50:04 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\catalog\controller\shop\list.php on line 23
